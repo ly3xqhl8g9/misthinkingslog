@@ -11,4 +11,4 @@
     Misthinkingslog
 </h1>
 
-Keep track of the errors of reason that appear during the development of a project.
+Keep track of the errors of reason or mistaken paths that appear during the development of a project.
