@@ -4,7 +4,7 @@ All notable errors of reason or detrimental paths of thinking taken during the d
 
 
 
-## [9dce26] - 2019-03-17
+## [f504b4] - 2019-03-17
 
 ### Assumption
 
@@ -35,4 +35,5 @@ All notable errors of reason or detrimental paths of thinking taken during the d
 + Start a `misthinkingslog`.
 
 
+[f504b4]: https://github.com/caveljan/misthinkingslog/commit/f504b4f99033f2c05d8236240587f1da67a12abb
 [9dce26]: https://github.com/caveljan/misthinkingslog/commit/9dce268d989015f29f78bd3d1b9f65c7ea21ce5d
