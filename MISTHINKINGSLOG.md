@@ -1,6 +1,6 @@
 # Misthinkingslog
 
-All notable errors of reason made, or paths of thinking which in the end proved to be detrimental taken during the development to this project will be documented in this file.
+All notable errors of reason or detrimental paths of thinking taken during the development of the project will be documented in this file.
 
 
 
